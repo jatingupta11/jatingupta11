@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via url
 
-<!---
-jatingupta11/jatingupta11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hello,
+- I am Jatin Gupta and I am a cybersecurity student. Recently I am doing BCA from Mahatma Jyoti Rao Phoole University.
+- Recently, I am in Jaipur because my university is here. But I am from Chala, Neemakathan Raj.
+- I have completed my BCA 1st year in 2023.
+- 
